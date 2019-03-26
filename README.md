@@ -1,3 +1,6 @@
+Adds Class name as a property editor option - JDB 3-26-2019
+
+
 [![Build status](https://ci.appveyor.com/api/projects/status/inglha3jbuojwsmt/branch/master?svg=true)](https://ci.appveyor.com/project/karltynan/umbraco-link-picker)
 
 <h2>Umbraco Link Picker</h2>
